@@ -102,7 +102,7 @@ opacity:0;
     transition:0.5s;
 }
 .parallel{
-    background-image: url('t.jpg');
+    background-image:url('t.jpg');
     background-size:100% 100%;
     width:100%;
 }
@@ -189,18 +189,4 @@ box-shadow:0px 2px 21px -8px rgba(0,0,0,0.75);
     border:none;
     cursor:pointer;
 display:inline-block;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
