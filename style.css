@@ -102,7 +102,7 @@ opacity:0;
     transition:0.5s;
 }
 .parallel{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('t.jpg')no-repeat;
+    background-image: url('t.jpg');
     background-size:100% 100%;
     width:100%;
 }
