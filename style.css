@@ -91,7 +91,7 @@ border:none;
     text-align:center;
     top:30%;
     left:30%;
-opacity:0;
+   opacity:0;
 }
 .collection .card:hover input{
     opacity:1;
