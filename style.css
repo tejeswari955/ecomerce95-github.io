@@ -101,17 +101,17 @@ opacity:0;
     background-color:gray;
     transition:0.5s;
 }
-.parallex{
+.parallel{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('t.jpg')no-repeat;
     background-size:100% 100%;
     width:100%;
 }
 
-.parallex h1{
+.parallel h1{
 font-size:55px;
 font-weight: 700;
 }
-.parallex p{
+.parallel p{
     font-size:22px;
 
 }
